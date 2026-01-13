@@ -34,8 +34,6 @@ Este repositório foi montado como parte de um projeto prático da DIO para apli
   - `01 - Histórias de Usuário/` (primeira etapa do fluxo de QA, com as histórias e seus detalhes)
 - `LICENSE` (MIT)
 
-> Observação: eu não consegui carregar a listagem interna dos arquivos do GitHub pela interface (apareceu “There was an error while loading”), então documentei aqui o que está explícito na árvore e na descrição do repo. 
-
 
 ## Licença
 
