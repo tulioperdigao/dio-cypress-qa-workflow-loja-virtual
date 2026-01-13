@@ -1,13 +1,13 @@
-# dio-cypress-qa-workflow-loja-virtual
+# QA Workflow para uma Loja Virtual
 
-Projeto acadêmico da DIO (trilha Cypress) focado em **workflow de QA** para uma loja virtual: levantamento de requisitos, escrita de **user stories**, documentação de testes e cenários em **Gherkin**, com evolução planejada para **testes E2E**. :contentReference[oaicite:0]{index=0}
+Projeto acadêmico da DIO (trilha Cypress) focado em **workflow de QA** para uma loja virtual: levantamento de requisitos, escrita de **user stories**, documentação de testes e cenários em **Gherkin**, com evolução planejada para **testes E2E**. 
 
 > O objetivo aqui é mostrar “como QA pensa e organiza” o trabalho (processo + artefatos), e não só automação.
 > 
 
 ## Contexto
 
-Este repositório foi montado como parte de um projeto prático da DIO para aplicar conceitos de QA no contexto de um e-commerce (fluxos reais, riscos reais, documentação realista). :contentReference[oaicite:1]{index=1}
+Este repositório foi montado como parte de um projeto prático da DIO para aplicar conceitos de QA no contexto de um e-commerce (fluxos reais, riscos reais, documentação realista). 
 
 
 ## O que tem aqui (artefatos de QA)
@@ -31,10 +31,10 @@ Este repositório foi montado como parte de um projeto prático da DIO para apli
 ## Estrutura do repositório (visão rápida)
 
 - `docs/`
-  - `01 - Histórias de Usuário/` (primeira etapa do fluxo de QA, com as histórias e seus detalhes) :contentReference[oaicite:3]{index=3}
+  - `01 - Histórias de Usuário/` (primeira etapa do fluxo de QA, com as histórias e seus detalhes)
 - `LICENSE` (MIT)
 
-> Observação: eu não consegui carregar a listagem interna dos arquivos do GitHub pela interface (apareceu “There was an error while loading”), então documentei aqui o que está explícito na árvore e na descrição do repo. :contentReference[oaicite:5]{index=5}
+> Observação: eu não consegui carregar a listagem interna dos arquivos do GitHub pela interface (apareceu “There was an error while loading”), então documentei aqui o que está explícito na árvore e na descrição do repo. 
 
 
 ## Licença
